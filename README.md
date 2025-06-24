@@ -1,3 +1,3 @@
 ## Hi there, I'm Solvyrth 👋
 
-C++ developer training on udemy & dyma.
+Python developer training on udemy.
