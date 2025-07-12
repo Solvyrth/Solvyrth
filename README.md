@@ -1,3 +1,3 @@
 ## Hi there, I'm Solvyrth 👋
 
-Python developer training on udemy.
+HTML, CSS, JAVASCRIPT, PYTHON self-taught developer, still training on udemy.
