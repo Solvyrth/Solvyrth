@@ -14,7 +14,7 @@
 
 ## 🛠️ Stack Technique
 
-### Développement Frontend
+### Développement web
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
 </div>
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql" />
 </div>
 
-### Outils & Autres
+### Outils
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </div>
