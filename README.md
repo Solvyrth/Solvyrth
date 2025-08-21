@@ -21,12 +21,12 @@
 
 ### Python & Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql" />
 </div>
 
 ### Outils & Autres
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,npm,yarn" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </div>
 
 ## 📊 Statistiques GitHub
