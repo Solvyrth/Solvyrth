@@ -8,9 +8,9 @@
 
 - 🎨 **Développeur Front-end** - Passionné par la création d'interfaces utilisateur belles et interactives
 - 🐍 **Développeur Python** - Spécialisé dans le développement d'applications et l'automatisation
-- 💡 J'adore construire des applications modernes, intuitives et performantes
-- 🌱 Toujours désireux d'apprendre de nouvelles technologies et bonnes pratiques
-- 🎯 Focus sur le code propre et l'expérience utilisateur
+- 💡 **J'adore** - construire des applications modernes, intuitives et performantes
+- 🌱 **Toujours** - désireux d'apprendre de nouvelles technologies et bonnes pratiques
+- 🎯 **Focus** - sur le code propre et l'expérience utilisateur
 
 ## 🛠️ Stack Technique
 
