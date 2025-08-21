@@ -1,42 +1,81 @@
-# 👋 Salut, moi c'est Mehdi BENAIAD | Solvyrth !
+# 👋 Salut, je suis Mehdi BENAIAD
 
-## 🚀 Développeur Freelance | Front-end & Python
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Développeur+Front-end;Développeur+Python;Toujours+en+apprentissage" alt="Typing SVG" />
+</div>
 
-Passionné par le développement web et Python, je transforme des idées en solutions digitales performantes et modernes.
+## 🚀 À propos de moi
+
+- 🎨 **Développeur Front-end** - Passionné par la création d'interfaces utilisateur belles et interactives
+- 🐍 **Développeur Python** - Spécialisé dans le développement d'applications et l'automatisation
+- 💡 J'adore construire des applications modernes, intuitives et performantes
+- 🌱 Toujours désireux d'apprendre de nouvelles technologies et bonnes pratiques
+- 🎯 Focus sur le code propre et l'expérience utilisateur
+
+## 🛠️ Stack Technique
+
+### Développement Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,tailwind" />
+</div>
+
+### Python & Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,mongodb" />
+</div>
+
+### Outils & Autres
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,npm,yarn" />
+</div>
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solvyrth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvyrth&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solvyrth&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📈 Graphique d'Activité
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solvyrth&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=solvyrth&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+## 💼 Ce que je fais
+
+- 🖥️ **Développement Frontend** : Création d'applications web responsives et interactives
+- 🔧 **Applications Python** : Développement de systèmes backend robustes et d'outils d'automatisation
+- 🎨 **Design UI/UX** : Création d'interfaces utilisateur conviviales avec des principes de design modernes
+- 📱 **Design Responsive** : Assurer que les applications fonctionnent parfaitement sur tous les appareils
+- ⚡ **Optimisation de Performance** : Écriture de code efficace pour une meilleure expérience utilisateur
+
+## 📫 Restons en contact
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+
+</div>
 
 ---
 
-### 💻 Stack technique
-- **🐍 Python** - Développement backend, automatisation, scripts
-- **⚡ JavaScript** - Interactivité web, applications dynamiques  
-- **🎨 HTML/CSS** - Structure et design d'interfaces modernes
-- **🔧 Outils** - Git, VS Code, Terminal
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=solvyrth&color=blueviolet&style=flat-square&label=Vues+du+Profil" />
+</div>
 
----
-
-## 📊 Mes statistiques GitHub
-
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=solvyrth&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=333333)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solvyrth&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00d4ff&text_color=ffffff&border_color=333333)
-
----
-
-## 🎯 Ce que je fais
-
-- 🌐 **Développement Web Front-end** - Interfaces utilisateur modernes et responsives
-- 🐍 **Développement Python** - Applications backend, automatisation, scripts
-- 🚀 **Solutions sur mesure** - Projets adaptés aux besoins spécifiques
-- 📱 **Design responsive** - Expériences optimales sur tous les appareils
-
----
-
-## 📫 Contact & Collaboration
-
-- 💼 **Portfolio** : [Mon site web](https://mehdi-benaiad-freelance.com)
-- 🐙 **GitHub** : [@solvyrth](https://github.com/solvyrth)
-- 💬 **Statut** : Ouvert aux opportunités freelance
-
----
-
-⭐ **N'hésitez pas à explorer mes repositories et à me contacter pour vos projets !**
+<div align="center">
+  <i>⭐️ De <a href="https://github.com/solvyrth">Mehdi BENAIAD</a></i>
+</div>
