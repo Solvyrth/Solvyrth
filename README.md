@@ -16,7 +16,7 @@
 
 ### Développement Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
 </div>
 
 ### Python & Backend
