@@ -55,7 +55,7 @@
 ## 💼 Ce que je fais
 
 - 🖥️ **Développement Frontend** : Création d'applications web responsives et interactives
-- 🔧 **Applications Python** : Développement d'applications, de systèmes backend robustes et d'outils d'automatisation
+- 🔧 **Applications Python** : Développement d'applications, et d'outils d'automatisation
 - 📱 **Design Responsive** : Assurer que les applications fonctionnent parfaitement sur tous les appareils
 - ⚡ **Optimisation de Performance** : Écriture de code efficace pour une meilleure expérience utilisateur
 
