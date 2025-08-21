@@ -14,7 +14,7 @@
 
 ## 🛠️ Stack Technique
 
-### Développement web
+### Web
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
 </div>
