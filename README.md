@@ -71,9 +71,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=solvyrth&color=blueviolet&style=flat-square&label=Vues+du+Profil" />
-</div>
-
-<div align="center">
   <i>⭐️ De <a href="https://github.com/solvyrth">Mehdi BENAIAD</a></i>
 </div>
